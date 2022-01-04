@@ -7,3 +7,5 @@
 ### RODAR O APP
 - npx react-native run-android
 
+
+![APP Buscador CEP](https://github.com/leandrodklein/appbuscadorcep/blob/master/src/assets/img/appbuscadorcep.png)
